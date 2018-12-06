@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/vector/Desktop/DeepAudioClassification/musicDNN.tflearn"
+all_model_checkpoint_paths: "/Users/vector/Desktop/DeepAudioClassification/musicDNN.tflearn"
